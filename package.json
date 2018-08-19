@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "mybot",
   "main": "index.js",
+  "engines": {
+    "node": "5.0.0",
+    "npm": "4.6.1"
+  },
   "dependencies": {
     "bufferutil": "^4.0.0",
     "discord.js": "^11.4.1",
