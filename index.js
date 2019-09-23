@@ -352,6 +352,6 @@ client.on('message', async (message) => {
 	}
 });
 
-client.login('NDc5NzM3OTkyNTEzMTkxOTc4.Dldm1A.ajKgjCMc1fQUg-R34IoQwX3IOQc');
+client.login('no');
 
 // invite link: https://discordapp.com/oauth2/authorize?client_id=479737992513191978&permissions=8&scope=bot
